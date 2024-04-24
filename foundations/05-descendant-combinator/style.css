@@ -1,0 +1,31 @@
+/* Descendant combinator using classes */
+.container .text {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
+
+/* Descendent combinator using types
+div p {
+    background-color: rgb(255, 255, 0);
+    color: rgb(255,0,0);
+    font-size: 20px;
+    text-align: center;
+}
+
+Descendant combinator using type and class
+div .text {
+    background-color: #ffff00;
+    color: #ff0000;
+    font-size: 20px;
+    text-align: center;
+}
+
+Descendant combinator using class and type
+.container p {
+    background-color: hsl(60, 100%, 50%);
+    color: hsl(0, 100%, 50%);
+    font-size: 20px;
+    text-align: center;
+} */
