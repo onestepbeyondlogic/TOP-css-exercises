@@ -4,10 +4,16 @@
 }
 
 #number-two {
-    color: blue;
+    color: #3939ee;
     font-size: 36px;
 }
 
 .odd-elements.number-three {
     font-size: 24px;
+}
+
+#number-four {
+    background-color: hsl(110, 79%, 65%);
+    font-size: 24px;
+    font-weight: bold;
 }
